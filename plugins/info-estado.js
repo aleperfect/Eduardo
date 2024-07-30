@@ -25,7 +25,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'edu7 bot';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* edu7 bot
+ [🤴🏻] *Prop.:* Eduardo
  [#️⃣] *WA:* wa.me/+56927879963
 
  [💡] *Ping:* ${rtime}
