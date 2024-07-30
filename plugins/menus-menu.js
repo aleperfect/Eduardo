@@ -22,7 +22,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : edu7 bot
+┃⭐ Creador : Eduardo
 ┃📞 Wa.me/+56927879963
 ┃https://www.instagram.com/ff.edu7z
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
